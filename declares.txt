@@ -1,0 +1,30 @@
+image Hot Championship Wrestling Action = "hotwrestlingaction.png"
+image bg Office = "office.png" 
+image bg Outside Office = "outsideoffice.png"
+image jasmom left ="jasmomleft.png"
+image jasmom right ="jasmomright.png"
+image tvdeals right ="tvdeals right.png"
+image tvdeals left ="tvdeals left.png"
+image naked jason left ="nakedjasonleft.png"
+image naked jason right ="nakedjasonright.png"
+image jasmom knife left = "jasmomknifeleft.png"
+image jasmom knife right = "jasmomkniferight.png"
+image jasmom worried right = "jasmomworriedright.png"
+image jasmom worried left = "jasmomworriedleft.png"
+image tvdeals explain left ="tvdealsexplainleft.png"
+image tvdeals explain right ="tvdealsexplainright.png"
+
+bearpath
+
+image bg Outside Cabins = "outsidecabin.png"
+image jason right = "jasonright.png"
+image jason left = "jasonleft.png"
+image jasmom knife drop right = "jasmomknifedropright.png"
+image jason blush right = "jasonblushright.png"
+image bg Inside Cabin = "cabininside.png"
+image bear1 right negative = "bear1rightneg"
+image bear1 right= "bear1right"
+image jason vs bear = "jasonvsbear.png"
+
+beatbear
+image Bear Fight TV = "bearfighttv.png"
